@@ -1,36 +1,44 @@
-# Jeandle 项目治理
+# Jeandle Project Governance
 
-欢迎查阅 Jeandle 项目治理指南！我们坚信开放透明的协作是构建健康、包容和高效社区的基础。
+- [Core Principles](#core-principles)
+- [Roles and Responsibilities](#roles-and-responsibilities)
+- [How to Contribute](#how-to-contribute)
+- [Code of Conduct](#code-of-conduct)
+- [Amending this Document](#amending-this-document)
+- [Security Reporting](#security-reporting)
+- [Contact Us](#contact-us)
 
-本文档详细说明项目的运作方式，包括我们的角色职责以及决策制定流程。我们致力于保持流程的简洁实用，以便每个人都能轻松理解如何参与项目并了解项目的运作机制。
+Welcome to the Jeandle project governance guide! We believe that open and transparent collaboration is the foundation for building a healthy, inclusive, and efficient community.
 
-## 核心原则
+This document details how the project operates, including our roles, responsibilities, and decision-making processes. We are committed to keeping our procedures simple and practical, so everyone can easily understand how to participate in the project and how it works.
 
-- **开放性**：我们欢迎各种形式的贡献！我们所有的沟通和决策过程均以开放透明的方式进行。
-- **包容性**：我们致力于营造友好和谐的环境，让来自不同背景的人士都能参与其中并获得归属感。
-- **中立性**：作为社区驱动的项目，我们的决策以技术价值和社区共识为基础，不受任何单一公司或个人的影响。
-- **简洁性**：我们尽可能保持治理流程的直接明了，避免不必要的繁琐程序。
+## Core Principles
 
-## 角色与职责
+- **Openness**: We welcome contributions of all kinds! All our communication and decision-making processes are conducted openly and transparently.
+- **Inclusivity**: We are dedicated to creating a friendly and harmonious environment where people from diverse backgrounds can participate and feel a sense of belonging.
+- **Neutrality**: As a community-driven project, our decisions are based on technical merit and community consensus, free from the influence of any single company or individual.
+- **Simplicity**: We strive to keep our governance processes as straightforward as possible, avoiding unnecessary bureaucracy.
 
-若要详细了解社区中不同角色及其职责，请参阅我们的 [Jeandle 贡献者阶梯](LADDER.md)。
+## Roles and Responsibilities
 
-## 贡献参与
+For a detailed overview of the different roles and their responsibilities within the community, please see our [Jeandle Contributor Ladder](CONTRIBUTOR_LADDER.md).
 
-我们欢迎所有人的贡献！如果您有意参与贡献，我们的 [Jeandle 贡献指南](CONTRIBUTING.md) 包含了您入门所需的全部信息。请注意，所有贡献均应遵循我们的[行为准则](#行为准则)。
+## How to Contribute
 
-## 行为准则
+We welcome contributions from everyone! If you are interested in contributing, our [Jeandle Contribution Guide](CONTRIBUTING.md) has all the information you need to get started. Please note that all contributions must adhere to our [Code of Conduct](#code-of-conduct).
 
-我们遵循 [CNCF 行为准则](CODE_OF_CONDUCT.md) 以确保为所有人提供安全且相互尊重的环境。我们期望所有社区成员都能遵守这些准则。如果您发现任何违反准则的行为，请及时联系项目维护者或 CNCF 工作人员。
+## Code of Conduct
 
-## 修订本文档
+We follow the [CNCF Code of Conduct](CODE_OF_CONDUCT.md) to ensure a safe and respectful environment for all. We expect all community members to abide by these guidelines. If you witness any violations, please contact the project maintainers or CNCF staff.
 
-本治理文档的任何重大变更都将在维护者团队中进行讨论，并需要获得三分之二多数票方可通过。对于轻微的调整和澄清，维护者可在达成一般共识后进行修改。
+## Amending this Document
 
-## 安全报告
+Any significant changes to this governance document will be discussed among the maintainer team and require a two-thirds majority vote to pass. For minor adjustments and clarifications, maintainers may make changes after reaching a general consensus.
 
-安全是我们的首要任务。如果您发现安全漏洞，请查阅我们的 [Jeandle 安全报告指南](SECURITY.md) 了解如何负责任地报告相关问题。
+## Security Reporting
 
-## 联系方式
+Security is our top priority. If you discover a security vulnerability, please consult our [Jeandle Security Reporting Guide](SECURITY.md) to learn how to report it responsibly.
 
-欢迎加入我们的讨论，成为社区的一员！
+## Contact Us
+
+We welcome you to join our discussions and become a part of the community!
