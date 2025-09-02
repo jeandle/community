@@ -21,12 +21,6 @@ assignees: ''
 
 Please leave comments below if you have additional agenda items.
 
-## 👥 How to Participate
-
-- Any community member (including contributors, Committers, Maintainers, etc.) may freely participate.
-- If unable to attend, please provide feedback in the comments section, and Maintainers will discuss it on your behalf during the meeting.
-- Host: Maintainers take turns hosting. Please note in the comments if any changes.
-
 ## 📄 Additional Notes
 
 - Meeting notes and summaries will be published in the public repository after each meeting to help non-attendees understand the content.

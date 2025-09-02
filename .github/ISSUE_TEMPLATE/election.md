@@ -28,7 +28,6 @@ Please use this template to nominate candidates for community roles such as Comm
 
 ### ⏰ Nomination/Voting Timeline
 
-- **Nomination Period**: <!-- Example: 2025-08-29 to 2025-09-05 (minimum 7 days) -->
 - **Voting Period**: <!-- Example: 2025-09-06 to 2025-09-13 (minimum 7 days) -->
 - **Results Announcement**: <!-- Example: 2025-09-14 -->
 
@@ -55,8 +54,6 @@ Please use this template to nominate candidates for community roles such as Comm
 
 - Election process and role descriptions can be found in the relevant repository documentation
 - Please provide additional comments in this issue for any objections or special circumstances
-- During the voting period, all Maintainers and Committers have voting rights
-- Election results require a **simple majority** (over 50%) to pass
 - The voting process is open and transparent, and results will be announced to the community
 
 ## 🏆 Candidate Profile
@@ -96,33 +93,3 @@ If elected, please briefly describe the candidate's plans and goals for the comm
 - Ideas for community building and promotion
 - Expected time and effort commitment
 -->
-
-### 🎖️ Role Application
-
-<!-- Please select one: -->
-- [ ] Committer
-- [ ] Maintainer
-- [ ] Other Role: ______
-
-#### Role Descriptions
-
-- **Committer**: Has repository write access, can merge PRs, participates in daily maintenance
-- **Maintainer**: Has higher privileges, responsible for project direction, release management, community governance
-
-## 📊 Voting Results
-
-| Voter  | Vote      | Notes         |
-| ------ | --------- | ------------- |
-| @user1 | ✅ Approve | Notes go here |
-| @user2 | ✅ Approve | Notes go here |
-| @user3 | ❌ Reject  | Notes go here |
-
----
-
-**Voting Instructions:**
-
-- ✅ Approve: Support the candidate for this role
-- ❌ Reject: Do not support the candidate for this role
-- 🤔 Abstain: Do not participate in this vote
-
-_Last updated: 2025-08-29_
