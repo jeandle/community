@@ -37,7 +37,7 @@ Any significant changes to this governance repository will be discussed among th
 
 If you discover a security vulnerability in the Jeandle project, please report it privately to our security team. We take security issues seriously and will respond promptly to address any concerns.
 
-To report a security issue, we use GitHub security advisory to report vulnerabilities, for more information, see our [security advisories](https://github.com/jeandle/jeandle-jdk/blob/main/SECURITY.md) in the main project repository.
+To report a vulnerability, please open a security advisory on Github. For more information, see [jeandle-jdk security](https://github.com/jeandle/jeandle-jdk/blob/main/SECURITY.md) and [jeandle-llvm security](https://github.com/jeandle/jeandle-llvm/blob/main/SECURITY.md).
 
 ## Contact Us
 
