@@ -58,7 +58,7 @@ profiles:
     #
     # The percentage is calculated based on the number of votes in favor and the
     # number of allowed voters (see allowed_voters field below for more details).
-    pass_threshold: 50
+    pass_threshold: 67
 
     # Allowed voters (optional)
     #
@@ -89,7 +89,6 @@ profiles:
     #
     allowed_voters:
       teams:
-        - Committer
         - Maintainer
       users:
         - mingcheng
