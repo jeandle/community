@@ -17,7 +17,7 @@ Thank you for attending the jeandle community meeting on September 4, 2025! This
 ## 📋 Main Topics
 
 ### 🚀 Main Meeting Agenda
-1. Professor Wu Wei @lazyparser host the meeting and introduced the background of the Jeandle project.
+1. Professor Wu Wei @lazyparser hosted the meeting and introduced the background of the Jeandle project.
 2. Tang Wei introduced the Jeandle project goals and vision.
 3. Liu Taofeng @taofengliu discussed the Jeandle project technical framework and roadmap.
 4. @mingcheng introduced community governance.
