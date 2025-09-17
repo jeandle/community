@@ -17,10 +17,10 @@ Thank you for attending the jeandle community meeting on September 4, 2025! This
 ## 📋 Main Topics
 
 ### 🚀 Main Meeting Agenda
-1. Professor Wu Wei @lazyparser hosted the meeting and introduced the background of the Jeandle project.
-2. Tang Wei introduced the Jeandle project goals and vision.
-3. Liu Taofeng @taofengliu discussed the Jeandle project technical framework and roadmap.
-4. @mingcheng introduced community governance.
+1. Professor Wu Wei @lazyparser, from ISCAS PLCT lab, hosted the meeting and introduced the background of the Jeandle project.
+2. Ant Group Language&Compiler team leader Tang Wei @wei-tang introduced the Jeandle project goals and vision.
+3. Jeandle maintainer Liu Taofeng @taofengliu discussed the Jeandle project technical framework and roadmap.
+4. Jeandle community manager @mingcheng introduced community governance.
 5. Q&A
 
 ### 🎊 New Member Introductions/Congratulations
