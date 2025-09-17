@@ -19,7 +19,7 @@ In short, any change affecting Jeandle, large or small, follows these simple ste
 
 - **Step 1**: Propose a change or raise a concern by creating an issue in this repository.
 - **Step 2**: Discuss the issue in the comments.
-- **Step 3**: Resolve the issue two weeks after its creation based on community consensus.
+- **Step 3**: Resolve the issue one week after its creation based on community consensus.
 
 All decisions, except member nominations, must receive approval from at least two-thirds (rounded up) of the voters to be passed. For all decisions, only maintainers have voting rights.
 

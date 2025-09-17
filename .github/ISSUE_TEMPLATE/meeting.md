@@ -15,9 +15,9 @@ assignees: ''
 
 ## 📋 Meeting Agenda
 
-1. Current unfixed issues and progress synchronization
-2. Community feedback and discussion
-3. Next phase planning and action
+1. Current issues and progress synchronization
+2. Next phase planning and action
+3. Community feedback and discussion
 
 Please leave comments below if you have additional agenda items.
 

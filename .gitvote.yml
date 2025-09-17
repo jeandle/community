@@ -50,7 +50,7 @@ profiles:
     #   days    | day    | d
     #   weeks   | week   | w
     #
-    duration: 2w
+    duration: w
 
     # Pass threshold (required)
     #
@@ -90,8 +90,6 @@ profiles:
     allowed_voters:
       teams:
         - Maintainer
-      users:
-        - mingcheng
       exclude_team_maintainers: false
 
     # Periodic status check
@@ -121,7 +119,7 @@ profiles:
     #
     # periodic_status_check: "5 days"
     #
-    periodic_status_check: "5 days"
+    periodic_status_check: "3 days"
 
     # Close on passing
     #
@@ -167,3 +165,25 @@ profiles:
     # announcements:
     #   discussions:
     #     category: announcements
+
+  committer_nomination:
+    duration: w
+    pass_threshold: 0
+    allowed_voters:
+      teams:
+        - Maintainer
+      exclude_team_maintainers: false
+    periodic_status_check: "3 days"
+    close_on_passing: true
+    close_on_passing_min_wait: null
+
+  maintainer_nomination:
+    duration: w
+    pass_threshold: 67
+    allowed_voters:
+      teams:
+        - Maintainer
+      exclude_team_maintainers: false
+    periodic_status_check: "3 days"
+    close_on_passing: true
+    close_on_passing_min_wait: null
