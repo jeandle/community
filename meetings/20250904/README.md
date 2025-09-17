@@ -43,7 +43,7 @@ Nomination and election of @feilongjiang as Committer, for more details please r
   We are committed to keeping community interactions simple and transparent, with all content related to community collaboration, feature direction setting, and specific progress being public and traceable.
 
   **Q: Is the roadmap clear, and how about SpecJBB performance benchmarks?**
-  A: The roadmap is detailed in the meeting presentation(in the attachments section). This year we focus on feature implementation, with performance optimization not being a priority for now.
+  A: The roadmap is detailed in the meeting presentation (in the attachments section). This year we focus on feature implementation, with performance optimization not being a priority for now.
 
   **Q: Which version of JDK is currently supported? What's the upgrade and compatibility strategy going forward?**
   A: Currently developing based on JDK 21. Migration to higher JDK versions will be considered after the project reaches a stable state.
