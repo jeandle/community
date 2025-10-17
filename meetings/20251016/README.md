@@ -6,8 +6,8 @@ Thank you for attending the jeandle community meeting on October 16, 2025! Below
 
 - **Date & Time**: October 16, 2025, 19:00 - 20:00
 - **Location/Format**: Online Meeting
-- **Host**: @hexuejin
-- **Note Taker**: @liutaofeng
+- **Host**: @Cruise20
+- **Note Taker**: @taofengliu
 - **Related Links**: https://github.com/jeandle/community/issues/11
 
 ## 👥 Attendees
@@ -19,7 +19,7 @@ Thank you for attending the jeandle community meeting on October 16, 2025! Below
 ### 🚀 Main Meeting Agenda
 1. Introduction of the main progress during last weeks.
 2. Next phase planning discussion.
-4. Introduce the new contributors @guoxiongli @feiyang.
+4. Introduce the new contributors @lgxbslgx @RealFYang.
 5. Open discussion.
 
 ### 💬 Open Discussion
