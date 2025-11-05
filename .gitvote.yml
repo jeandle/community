@@ -50,7 +50,7 @@ profiles:
     #   days    | day    | d
     #   weeks   | week   | w
     #
-    duration: w
+    duration: 1w
 
     # Pass threshold (required)
     #
@@ -167,7 +167,7 @@ profiles:
     #     category: announcements
 
   committer_nomination:
-    duration: w
+    duration: 1w
     pass_threshold: 0
     allowed_voters:
       teams:
@@ -178,7 +178,7 @@ profiles:
     close_on_passing_min_wait: null
 
   maintainer_nomination:
-    duration: w
+    duration: 1w
     pass_threshold: 67
     allowed_voters:
       teams:
