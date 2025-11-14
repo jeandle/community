@@ -25,4 +25,4 @@ Thank you for attending the jeandle community meeting on November 13, 2025! Belo
 ## 📎 Attachments & References
 
 - PPT: [progress&plan.pptx](./progress&plan.pptx)
-- Invokedynamic Tech Talk: [progress&plan.pptx](./progress&plan.pptx)
+- Invokedynamic Tech Talk: [InvokeDynamic.md](./InvokeDynamic.md)
