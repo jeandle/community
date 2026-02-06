@@ -61,14 +61,14 @@ Here is an overview of the roles:
 
 | Role             | Responsibilities                                                            | Requirements                                                                   | Privileges                                                                            |
 | ---------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| **Committer**    | Continuously participate in project maintenance.                            | A record of high-quality contributions and community trust.                    | Merge PRs, manage issues and PRs. Direct push access to repositories except the main branches     |
+| **Committer**    | Continuously participate in project maintenance.                            | A record of high-quality contributions and community trust.                    | Review PRs, manage issues and PRs. Direct push access to repositories except the main branches     |
 | **Maintainer**   | Participate in various decision-making in the community. Review various changes, ensure quality and compliance. | Extensive experience as a Committer, deep knowledge of specific project areas. | Approve PRs in repositories, nominate new Maintainers/Committers and vote for decision making.            |
 
 *Note: As the project evolves, these roles and responsibilities may change. This document will serve as the definitive guide.*
 
 ### Committer
 
-A **Committer** is a contributor who has been granted direct push access to the project repositories, allowing them to push code changes directly and take on greater responsibility within the community.
+A **Committer** is a contributor who has been invited into Jeandle organization and granted direct push access to the project repositories, allowing them to push code changes directly and take on greater responsibility within the community.
 
 - **Responsibilities**:
   - Creating PRs.
@@ -103,7 +103,7 @@ A **Maintainer** is an experienced Committer who has the authority to approve ch
   - A commitment to the ongoing maintenance of their designated area(s).
   - Supporting new and occasional contributors by helping to improve their PRs for merging.
 - **Privileges**:
-  - GitHub permissions to approve PRs.
+  - GitHub permissions to approve and merge PRs.
   - May be listed as a Jeandle Maintainer for promotional purposes.
   - Can recommend and review other Committers for the Maintainer role.
   - Vote in decision making processes.
