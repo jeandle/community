@@ -21,6 +21,11 @@ Thank you for attending the Jeandle community meeting on March 26, 2026! Below i
 2. Next phase planning discussion.
 3. Tech talk about On Stack Replacement(OSR): https://github.com/jeandle/document/blob/main/compilation/osr.md
 
+### Q&A
+1. Q: Why can't OSR compilation directly switch from C1 to C2?
+
+   A: Currently, Hotspot handles the switch from C1 to C2 in OSR by deoptimizing the corresponding C1 OSR to interpreter execution when the C2 OSR compilation is complete. Then interpreter execution will switch to the C2 OSR immediately upon reaching the back-edge threshold. To allow a direct switch from C1 to C2, the execution state switching mechanism needs to be rewritten (deoptimization currently cannot switch from C1 to C2). Furthermore, the interpreter, which holds a stable and complete execution state, can perform a check of the virtual machine state during the C1 to C2 transition.
+
 ## 📎 Attachments & References
 
 - PPT: [progress&plan.pptx](./progress&plan.pptx)
