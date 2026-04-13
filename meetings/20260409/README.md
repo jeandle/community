@@ -19,7 +19,7 @@ Thank you for attending the Jeandle community meeting on March 26, 2026! Below i
 ### 🚀 Main Meeting Agenda
 1. Introduction of the main progress during last weeks.
 2. Next phase planning discussion.
-3. Tech talk about On Stack Replacement(OSR).
+3. Tech talk about On Stack Replacement(OSR): https://github.com/jeandle/document/blob/main/compilation/osr.md
 
 ## 📎 Attachments & References
 
