@@ -19,12 +19,21 @@ Thank you for attending the Jeandle community meeting on March 26, 2026! Below i
 ### 🚀 Main Meeting Agenda
 1. Introduction of the main progress during last weeks.
 2. Next phase planning discussion.
-3. Tech talk about On Stack Replacement(OSR): https://github.com/jeandle/document/blob/main/compilation/osr.md
+3. Tech talk about [On Stack Replacement(OSR)](https://github.com/jeandle/document/blob/main/compilation/osr.md)   --  by @minchao1024
 
 ### Q&A
 1. Q: Why can't OSR compilation directly switch from C1 to C2?
 
    A: Currently, Hotspot handles the switch from C1 to C2 in OSR by deoptimizing the corresponding C1 OSR to interpreter execution when the C2 OSR compilation is complete. Then interpreter execution will switch to the C2 OSR immediately upon reaching the back-edge threshold. To allow a direct switch from C1 to C2, the execution state switching mechanism needs to be rewritten (deoptimization currently cannot switch from C1 to C2). Furthermore, the interpreter, which holds a stable and complete execution state, can perform a check of the virtual machine state during the C1 to C2 transition.
+
+2. Q: Does OSR compile the loop body or the entire method? 
+
+   A: It compiles the part of the method from OSR_Entry to the end of the method. If the part before OSR_Entry is not executed, it will not be included in the compilation scope.
+
+3. Q: If the invoke threshold is reached after OSR 
+   compilation, will the entire method be compiled?
+
+   A: Yes, OSR compilation does not affect the call counter triggering logic of the normal entry point's compilation. Moreover, after triggering OSR compilation, the compilation level of the normal entry point is usually also raised to the OSR compilation level and the compilation of the normal entry point is triggered. Therefore, even if the method is only called once, the compilation of the normal entry point can still be triggered.
 
 ## 📎 Attachments & References
 
